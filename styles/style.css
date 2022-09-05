@@ -213,19 +213,6 @@ section {
 }
 .header-content .right-header .name div {
   color: var(--color-secondary);
-  -webkit-animation: beat 0.25s infinite alternate;
-          animation: beat 0.25s infinite alternate;
-  transform-origin: center;
-}
-@-webkit-keyframes beat {
-  to {
-    transform: scale(1.03);
-  }
-}
-@keyframes beat {
-  to {
-    transform: scale(1.03);
-  }
 }
 .header-content .right-header p {
   margin: 1.5rem 0;

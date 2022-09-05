@@ -195,11 +195,11 @@ section {
             font-size: 3rem;
             div { 
                 color: var(--color-secondary);
-                animation: beat .25s infinite alternate;
-            	transform-origin: center;
-                @keyframes beat {
-                    to{transform: scale(1.03);}
-                }
+                // animation: beat .25s infinite alternate;
+            	// transform-origin: center;
+                // @keyframes beat {
+                //     to{transform: scale(1.03);}
+                // }
             }
             
            
